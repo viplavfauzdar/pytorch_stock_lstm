@@ -1,0 +1,32 @@
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.py
+
+# Virtual environment
+venv/
+.env/
+.env.*
+
+# VSCode settings
+.vscode/
+
+# PyTorch model files
+*.pth
+
+# Streamlit artifacts
+.streamlit/
+*.csv
+*.log
+
+# Jupyter/IPython
+.ipynb_checkpoints
+
+# OS-specific files
+.DS_Store
+Thumbs.db
